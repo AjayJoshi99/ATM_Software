@@ -34,8 +34,8 @@ C_name : AJay
 
 
 **🙋‍♂️ Author**
-👨‍💻 Ajay Joshi  
+👨‍💻 Ajay Joshi    
 📧 ajayjoshi1908@gamil.com
 
 
-<p align="center">Made with ❤️ for learning & practicing real-world software logic.</p> ```
+<p align="center">Made with ❤️ for learning & practicing real-world software logic.</p> 
