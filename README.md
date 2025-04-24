@@ -33,7 +33,7 @@ Pin : 12345
 C_name : AJay  
 
 
-**🙋‍♂️ Author**
+**🙋‍♂️ Author**  
 👨‍💻 Ajay Joshi    
 📧 ajayjoshi1908@gamil.com
 
